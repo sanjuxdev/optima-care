@@ -62,6 +62,7 @@ Built as a **Hackathon Project** to demonstrate responsible, explainable AI in a
 ### 🧪 Diagnostic Hub
 > Patient profile card with real-time biomarker trend charts (longitudinal glucose & eGFR analysis) and an AI Deep Analysis Engine powered by live BioBERT + OpenFDA synthesis.
 
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2384f867-ee5c-45d7-bb4e-612be45486c9" />
 
 
@@ -70,15 +71,15 @@ Built as a **Hackathon Project** to demonstrate responsible, explainable AI in a
 ### 📊 Analytics Dashboard — Population Intelligence
 > Real-time aggregate analytics across the entire clinical database. Displays total managed patients, average health index, high-risk cases, clinician efficiency score, condition-wise risk distribution, and patient demographics breakdown.
 
-![Analytics Dashboard](./analylitcsdashboard.png)
+<img width="1880" height="1077" alt="Image" src="https://github.com/user-attachments/assets/d905c452-28fe-4bf3-91bf-ab78425a15c8" />
 
 ---
 
 ### 🧑‍⚕️ Patient Onboarding
 > Initialize a new clinical profile by entering patient details — full name, age, gender, height, weight, patient photo, and medical report (PDF upload).
 
-![Patient Onboarding](./patientonboarding.png)
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5cd5d8b4-fba8-42ca-bf70-a1d67e4138d0" />
 ---
 
 ## 🏗️ System Architecture
