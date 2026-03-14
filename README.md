@@ -62,7 +62,8 @@ Built as a **Hackathon Project** to demonstrate responsible, explainable AI in a
 ### 🧪 Diagnostic Hub
 > Patient profile card with real-time biomarker trend charts (longitudinal glucose & eGFR analysis) and an AI Deep Analysis Engine powered by live BioBERT + OpenFDA synthesis.
 
-![Diagnostic Hub](./diagonostichub.png)
+<!-- Uploading "diagonostichub.png"... -->
+
 
 ---
 
