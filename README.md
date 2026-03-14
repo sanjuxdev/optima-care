@@ -396,4 +396,4 @@ Interactive Swagger docs available at `http://localhost:8000/docs` once the back
 
 ---
 
-<p align="center">Made with ❤️ for Hackathon 2025</p>
+<p align="center">Made with ❤️ for Hackathon 2026</p>
